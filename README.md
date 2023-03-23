@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucaszorzin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaszorzin)
 [![Portfolio](https://img.shields.io/badge/-⭐%20PORTFOLIO-red)](https://portfolio-lucaszorzin.web.app/)
 
 # 💻 Tech Stack:
