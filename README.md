@@ -7,7 +7,7 @@ My academic background includes a Bachelor’s Degree in Cybersecurity (currentl
 
 🛠️ These experiences have given me strong knowledge in:
 
-• FRONT-END: HTML, CSS, JavaScript, React.js, Next.js, Bootstrap, Sass, and jQuery.
+• FRONT-END: HTML, CSS, JavaScript, React.js, Next.js, React Native, Bootstrap, Sass, and jQuery.
 
 • BACK-END: Node.js, Express, Knes.js, and Mongoose.
 
