@@ -3,7 +3,7 @@
 
 I consider myself an organized, motivated, and problem-solving person with a strong attention to detail. I’m deeply interested in all areas of programming and eager to work on ambitious projects that challenge me beyond my comfort zone and current knowledge.
 
-My academic background includes a Bachelor’s Degree in Information Security (currently pursuing) at Siglo 21 University, a Full Stack Web Development course completed at Coderhouse, and 16 completed subjects from the Computer Engineering program at La Matanza University.
+My academic background includes a Bachelor’s Degree in Cybersecurity (currently pursuing) at Siglo 21 University, a Full Stack Web Development course completed at Coderhouse, and 16 completed subjects from the Computer Engineering program at La Matanza University.
 
 🛠️ These experiences have given me strong knowledge in:
 
