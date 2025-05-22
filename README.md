@@ -1,5 +1,23 @@
 # 💫 About Me:
-👋 Hi there! I'm Lucas Zorzin, a Full-Stack Developer and a Computer Engineering Student from Buenos Aires, Argentina.<br>I consider myself as a well-organised person and problem solver with high attention to detail.<br>I'm interested in taking part in projects that required me to work outside my comfort and knowledge set.<br><br><br>🛠️ SKILLS<br><br> •FRONT-END: HTML, CSS, JavaScript, React.js, Next.js, Bootstrap, Sass, jQuery.<br><br> •BACK-END: Node.js, Express, Knes.js, Mongoose.<br><br> •DATABASES: MongoDB, MariaDB, MySQL, Firebase.<br><br> •DESIGN: Figma, Photoshop, Illustrator.<br><br> •CMS: Wordpress, Shopify.<br><br> •GIT
+👋 Hi there! I'm Lucas Zorzin, a passionate frontend developer with over three years of experience in designing and developing web and mobile applications. I’m currently working at Widergy, a leading software solutions company in the energy sector, where I use React.js and React Native. I'm also the founder of Accesirium, a personal project that enables users to create online stores and receive orders via WhatsApp easily and quickly.
+
+I consider myself an organized, motivated, and problem-solving person with a strong attention to detail. I’m deeply interested in all areas of programming and eager to work on ambitious projects that challenge me beyond my comfort zone and current knowledge.
+
+My academic background includes a Bachelor’s Degree in Information Security (currently pursuing) at Siglo 21 University, a Full Stack Web Development course completed at Coderhouse, and 16 completed subjects from the Computer Engineering program at La Matanza University.
+
+🛠️ These experiences have given me strong knowledge in:
+
+• FRONT-END: HTML, CSS, JavaScript, React.js, Next.js, Bootstrap, Sass, and jQuery.
+
+• BACK-END: Node.js, Express, Knes.js, and Mongoose.
+
+• DATABASES: MongoDB, MariaDB, MySQL, and Firebase.
+
+• DESIGN: Figma, Photoshop, and Illustrator.
+
+• CMS: WordPress and Shopify.
+
+• GIT
 
 
 ## 🌐 Socials:
